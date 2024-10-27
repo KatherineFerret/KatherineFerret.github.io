@@ -1,0 +1,80 @@
+@charset "UTF-8";
+@import url("webfonts/SHLOP/stylesheet.css");
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #EA1480;
+}
+wrapper {
+    width: 1366px;
+    margin: 0 auto;
+    display: block;
+    background-color: #FFFFFF;
+}
+header {
+    background-color: #00D805;
+    height: 41px;
+}
+footer {
+    padding: 16px;
+    font-size: 12px;
+    background-color: #F26EB1;
+}
+nav {
+    background-color: rgba(0,216,5,0.50);
+}
+nav ul  {
+    padding: 0;
+    margin: 0;
+}
+ul a li {
+    display: inline-block;
+    padding-top: 16px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 16px;
+    font-size: 24px;
+    color: #000000;
+    font-family: SHLOP;
+}
+ul a li:hover {
+    color: #FFFFFF;
+    background-color: #EA1480;
+}
+img  {
+    margin-left: 27px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#gallery2 {
+    margin-right: 104px;
+    margin-top: 37px;
+}
+#gallery3 {
+    margin-left: 185px;
+    width: 634px;
+    height: 426px;
+    margin-top: 41px;
+}
+#gallery4 {
+    margin-left: 27px;
+    width: 618px;
+    height: 386px;
+}
+#gallery {
+    margin-left: 791px;
+    padding-top: 0px;
+    margin-top: -126px;
+}
+#tour {
+    margin-left: 158px;
+}
+#mailing {
+    margin-left: 141px;
+}
+#privacy {
+    margin-left: 305px;
+}
+#maggielindemann video {
+    margin-left: 46px;
+}
